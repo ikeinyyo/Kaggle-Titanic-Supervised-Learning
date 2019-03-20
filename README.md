@@ -12,3 +12,7 @@ Create conda environment from `environment.yml` file.
 Activate conda environment:
 
 `coda activate kaggle`
+
+## Notebook preview
+
+You can see [here](output/Titanic.html) Notebook preview.

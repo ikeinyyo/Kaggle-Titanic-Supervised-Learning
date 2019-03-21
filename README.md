@@ -16,3 +16,7 @@ Activate conda environment:
 ## Notebook preview
 
 You can see [here](output/Titanic.html) Notebook preview.
+
+## Study about Decison Trees
+
+Can see more information about decision tree in [SciKit documentation](https://scikit-learn.org/stable/modules/tree.html)
